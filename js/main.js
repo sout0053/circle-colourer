@@ -1,5 +1,5 @@
 var $html = $('html');
-var $ball = $('div');
+var $ball = $('.ball');
 var $picker = $('form');
 var $input = $('#pick-color');
 
